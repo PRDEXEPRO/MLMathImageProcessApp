@@ -1,0 +1,17 @@
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0\MLMathImageApp.csproj.AssemblyReference.cache
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0\MLMathImageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0\MLMathImageApp.AssemblyInfoInputs.cache
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0\MLMathImageApp.AssemblyInfo.cs
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0\MLMathImageApp.csproj.CoreCompileInputs.cache
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\bin\Debug\net9.0\MLMathImageApp.exe
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\bin\Debug\net9.0\MLMathImageApp.deps.json
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\bin\Debug\net9.0\MLMathImageApp.runtimeconfig.json
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\bin\Debug\net9.0\MLMathImageApp.dll
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\bin\Debug\net9.0\MLMathImageApp.pdb
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\bin\Debug\net9.0\SixLabors.ImageSharp.dll
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0\MLMathIm.242CF4B9.Up2Date
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0\MLMathImageApp.dll
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0\refint\MLMathImageApp.dll
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0\MLMathImageApp.pdb
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0\MLMathImageApp.genruntimeconfig.cache
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0\ref\MLMathImageApp.dll

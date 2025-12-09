@@ -1,0 +1,95 @@
+{
+  "version": 2,
+  "dgSpecHash": "oubWfJ7MJ2U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YUSUF BERAT\\OneDrive\\Masaüstü\\MLMATHIMAGE\\MLMathImageApp\\MLMathImageApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YUSUF BERAT\\.nuget\\packages\\sixlabors.imagesharp\\3.0.2\\sixlabors.imagesharp.3.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "'SixLabors.ImageSharp' 3.0.2 paketinde önem derecesi yüksek olan bilinen bir https://github.com/advisories/GHSA-2cmq-823j-5qj8 güvenlik açığı var",
+      "projectPath": "C:\\Users\\YUSUF BERAT\\OneDrive\\Masaüstü\\MLMATHIMAGE\\MLMathImageApp\\MLMathImageApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\YUSUF BERAT\\OneDrive\\Masaüstü\\MLMATHIMAGE\\MLMathImageApp\\MLMathImageApp.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net9.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "'SixLabors.ImageSharp' 3.0.2 paketinde önem derecesi orta olan bilinen bir https://github.com/advisories/GHSA-5x7m-6737-26cr güvenlik açığı var",
+      "projectPath": "C:\\Users\\YUSUF BERAT\\OneDrive\\Masaüstü\\MLMATHIMAGE\\MLMathImageApp\\MLMathImageApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\YUSUF BERAT\\OneDrive\\Masaüstü\\MLMATHIMAGE\\MLMathImageApp\\MLMathImageApp.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net9.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "'SixLabors.ImageSharp' 3.0.2 paketinde önem derecesi yüksek olan bilinen bir https://github.com/advisories/GHSA-63p8-c4ww-9cg7 güvenlik açığı var",
+      "projectPath": "C:\\Users\\YUSUF BERAT\\OneDrive\\Masaüstü\\MLMATHIMAGE\\MLMathImageApp\\MLMathImageApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\YUSUF BERAT\\OneDrive\\Masaüstü\\MLMATHIMAGE\\MLMathImageApp\\MLMathImageApp.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net9.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "'SixLabors.ImageSharp' 3.0.2 paketinde önem derecesi yüksek olan bilinen bir https://github.com/advisories/GHSA-65x7-c272-7g7r güvenlik açığı var",
+      "projectPath": "C:\\Users\\YUSUF BERAT\\OneDrive\\Masaüstü\\MLMATHIMAGE\\MLMathImageApp\\MLMathImageApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\YUSUF BERAT\\OneDrive\\Masaüstü\\MLMATHIMAGE\\MLMathImageApp\\MLMathImageApp.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net9.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "'SixLabors.ImageSharp' 3.0.2 paketinde önem derecesi orta olan bilinen bir https://github.com/advisories/GHSA-g85r-6x2q-45w7 güvenlik açığı var",
+      "projectPath": "C:\\Users\\YUSUF BERAT\\OneDrive\\Masaüstü\\MLMATHIMAGE\\MLMathImageApp\\MLMathImageApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\YUSUF BERAT\\OneDrive\\Masaüstü\\MLMATHIMAGE\\MLMathImageApp\\MLMathImageApp.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net9.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "'SixLabors.ImageSharp' 3.0.2 paketinde önem derecesi orta olan bilinen bir https://github.com/advisories/GHSA-qxrv-gp6x-rc23 güvenlik açığı var",
+      "projectPath": "C:\\Users\\YUSUF BERAT\\OneDrive\\Masaüstü\\MLMATHIMAGE\\MLMathImageApp\\MLMathImageApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\YUSUF BERAT\\OneDrive\\Masaüstü\\MLMATHIMAGE\\MLMathImageApp\\MLMathImageApp.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net9.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "'SixLabors.ImageSharp' 3.0.2 paketinde önem derecesi orta olan bilinen bir https://github.com/advisories/GHSA-rxmq-m78w-7wmc güvenlik açığı var",
+      "projectPath": "C:\\Users\\YUSUF BERAT\\OneDrive\\Masaüstü\\MLMATHIMAGE\\MLMathImageApp\\MLMathImageApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\YUSUF BERAT\\OneDrive\\Masaüstü\\MLMATHIMAGE\\MLMathImageApp\\MLMathImageApp.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net9.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0-windows\MLMathImageApp.csproj.AssemblyReference.cache
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0-windows\MLMathImageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0-windows\MLMathImageApp.AssemblyInfoInputs.cache
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0-windows\MLMathImageApp.AssemblyInfo.cs
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0-windows\MLMathImageApp.csproj.CoreCompileInputs.cache
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\bin\Debug\net9.0-windows\MLMathImageApp.exe
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\bin\Debug\net9.0-windows\MLMathImageApp.deps.json
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\bin\Debug\net9.0-windows\MLMathImageApp.runtimeconfig.json
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\bin\Debug\net9.0-windows\MLMathImageApp.dll
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\bin\Debug\net9.0-windows\MLMathImageApp.pdb
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\bin\Debug\net9.0-windows\SixLabors.ImageSharp.dll
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0-windows\MLMathIm.242CF4B9.Up2Date
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0-windows\MLMathImageApp.dll
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0-windows\refint\MLMathImageApp.dll
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0-windows\MLMathImageApp.pdb
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0-windows\MLMathImageApp.genruntimeconfig.cache
+C:\Users\YUSUF BERAT\OneDrive\Masaüstü\MLMATHIMAGE\MLMathImageApp\obj\Debug\net9.0-windows\ref\MLMathImageApp.dll
